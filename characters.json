@@ -1,0 +1,953 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Carol D.",
+      "alsoKnownAs": "Carol D.",
+      "portrayedBy": "Unknown",
+      "occupation": "Macrodata Refiner at Lumon Industries",
+      "status": "Severed, Retired, Alive",
+      "firstAppearance": "Half Loop (referenced)",
+      "photo": "https://i.imgur.com/eSmbL8Z.png",
+      "category": "Macrodata Refinement"
+    },
+    {
+      "id": 2,
+      "name": "Dario Rossi",
+      "alsoKnownAs": "Dario R.",
+      "portrayedBy": "Stefano Carannante",
+      "occupation": "Macrodata Refiner at Lumon Industries",
+      "status": "Severed, Alive",
+      "firstAppearance": "Hello, Ms. Cobel",
+      "photo": "https://i.imgur.com/CdAvaT2.png",
+      "category": "Macrodata Refinement"
+    },
+    {
+      "id": 3,
+      "name": "Dylan George.",
+      "alsoKnownAs": "Dylan G.",
+      "portrayedBy": "Zach Cherry",
+      "occupation": "Macrodata Refiner at Lumon Industries",
+      "status": "Severed, Alive",
+      "firstAppearance": "Good News About Hell",
+      "photo": "https://i.imgur.com/c5BRNCB.png",
+      "category": "Macrodata Refinement"
+    },
+    {
+      "id": 4,
+      "name": "Gwendolyn Y.",
+      "alsoKnownAs": "Unknown",
+      "portrayedBy": "Alia Shawkat",
+      "occupation": "Macrodata Refiner at Lumon Industries",
+      "status": "Severed, Alive",
+      "firstAppearance": "Hello, Ms. Cobel",
+      "photo": "https://i.imgur.com/WcjmnmK.png",
+      "category": "Macrodata Refinement"
+    },
+    {
+      "id": 5,
+      "name": "Helena Eagan",
+      "alsoKnownAs": "Helly R. / Helena Eagan",
+      "portrayedBy": "Britt Lower",
+      "occupation": "Macrodata Refiner at Lumon Industries",
+      "status": "Severed, Alive",
+      "firstAppearance": "Good News About Hell",
+      "photo": "https://i.imgur.com/5reodRR.png",
+      "category": "Macrodata Refinement"
+    },
+    {
+      "id": 6,
+      "name": "Irving Bailiff",
+      "alsoKnownAs": "Irving B., Irv",
+      "portrayedBy": "John Turturro",
+      "occupation": "Senior Macrodata Refiner at Lumon Industries",
+      "status": "Severed, Alive",
+      "firstAppearance": "Good News About Hell",
+      "photo": "https://i.imgur.com/jyMz0Mp.png",
+      "category": "Macrodata Refinement"
+    },
+    {
+      "id": 7,
+      "name": "Mark Scout",
+      "alsoKnownAs": "Mark S., Milady, Flip",
+      "portrayedBy": "Adam Scott",
+      "occupation": "Macrodata Refinement Chief at Lumon Industries",
+      "status": "Severed, Alive",
+      "firstAppearance": "Good News About Hell",
+      "photo": "https://i.imgur.com/AwLkvDk.png",
+      "category": "Macrodata Refinement"
+    },
+    {
+      "id": 8,
+      "name": "Mark Wilkins",
+      "alsoKnownAs": "Mark W.",
+      "portrayedBy": "Bob Balaban",
+      "occupation": "Macrodata Refiner at Lumon Industries",
+      "status": "Severed, Alive",
+      "firstAppearance": "Hello, Ms. Cobel",
+      "photo": "https://i.imgur.com/77l4XmH.png",
+      "category": "Macrodata Refinement"
+    },
+    {
+      "id": 9,
+      "name": "Margaret “Peg” Kincaid",
+      "alsoKnownAs": "Peggy K.",
+      "portrayedBy": "Unknown",
+      "occupation": "Macrodata Refiner at Lumon Industries",
+      "status": "Severed, Deceased",
+      "firstAppearance": "Severance: The Lexington Letter",
+      "photo": "https://i.imgur.com/eSmbL8Z.png",
+      "category": "Macrodata Refinement"
+    },
+    {
+      "id": 10,
+      "name": "Peter Kilmer",
+      "alsoKnownAs": "Peter K., Petey",
+      "portrayedBy": "Yul Vazquez",
+      "occupation": "Macrodata Refiner at Lumon Industries",
+      "status": "Reintegrated, Deceased",
+      "firstAppearance": "Good News About Hell",
+      "photo": "https://i.imgur.com/HJjJZxj.png",
+       "category": "Macrodata Refinement"
+    },
+    {
+      "id": 11,
+      "name": "Alice K.",
+      "alsoKnownAs": "Alice K.",
+      "portrayedBy": "Unknown",
+      "occupation": "Optics and Design Chief at Lumon Industries",
+      "status": "Severed, Retired, Unknown",
+      "firstAppearance": "The You You Are (referenced)",
+      "photo": "https://i.imgur.com/eSmbL8Z.png ",
+       "category": "Optics and Design"
+    },
+    {
+      "id": 12,
+      "name": "Burt Goodman",
+      "alsoKnownAs": "Burt G.",
+      "portrayedBy": "Christopher Walken",
+      "occupation": "Optics and Design at Lumon Industries",
+      "status": "Severed, Retired, Alive",
+      "firstAppearance": "Good News About Hell",
+      "photo": "https://i.imgur.com/km7PVqF.png",
+      "category": "Optics and Design"
+    },
+    {
+      "id": 13,
+      "name": "Elizabeth",
+      "alsoKnownAs": "Elizabeth",
+      "portrayedBy": "Rachel Addington",
+      "occupation": "Optics and Design at Lumon Industries",
+      "status": "Severed, Alive",
+      "firstAppearance": "The You You Are",
+      "photo": "https://i.imgur.com/Oa5jZgU.png",
+      "category": "Optics and Design"
+    },
+    {
+      "id": 14,
+      "name": "Felicia",
+      "alsoKnownAs": "Felicia",
+      "portrayedBy": "Claudia Robinson",
+      "occupation": "Optics and Design at Lumon Industries",
+      "status": "Severed, Alive",
+      "firstAppearance": "In Perpetuity",
+      "photo": "https://i.imgur.com/rMAHaCz.png",
+      "category": "Optics and Design"
+    },
+    {
+      "id": 15,
+      "name": "Oswald",
+      "alsoKnownAs": "Oswald",
+      "portrayedBy": "Unknown",
+      "occupation": "Optics and Design at Lumon Industries",
+      "status": "Severed, Alive",
+      "firstAppearance": "Defiant Jazz (referenced)",
+      "photo": "https://i.imgur.com/eSmbL8Z.png",
+      "category": "Optics and Design"
+    },
+    {
+      "id": 16,
+      "name": "Doug Graner",
+      "alsoKnownAs": "Doug Graner",
+      "portrayedBy": "Unknown",
+      "occupation": "Administration",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 17,
+      "name": "Harmony Cobel",
+      "alsoKnownAs": "Harmony Cobel",
+      "portrayedBy": "Patricia Arquette",
+      "occupation": "Office Manager at Lumon Industries",
+      "status": "Severed, Alive",
+      "firstAppearance": "Good News About Hell",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 18,
+      "name": "Miss Huang",
+      "alsoKnownAs": "Miss Huang",
+      "portrayedBy": "Unknown",
+      "occupation": "Administration",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 19,
+      "name": "Mr. Drummond",
+      "alsoKnownAs": "Mr. Drummond",
+      "portrayedBy": "Ólafur Darri Ólafsson",
+      "occupation": "Administration",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 20,
+      "name": "Natalie Kalen",
+      "alsoKnownAs": "Natalie Kalen",
+      "portrayedBy": "Sydney Cole Alexander",
+      "occupation": "Administration",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 21,
+      "name": "Seth Milchick",
+      "alsoKnownAs": "Seth Milchick",
+      "portrayedBy": "Tramell Tillman",
+      "occupation": "Supervisor at Lumon Industries",
+      "status": "Severed, Alive",
+      "firstAppearance": "Good News About Hell",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 22,
+      "name": "The Board",
+      "alsoKnownAs": "The Board",
+      "portrayedBy": "Unknown",
+      "occupation": "Unknown",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 23,
+      "name": "Ambrose Eagan",
+      "alsoKnownAs": "Ambrose Eagan",
+      "portrayedBy": "Unknown",
+      "occupation": "Eagan Family",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 24,
+      "name": "Baird Eagan",
+      "alsoKnownAs": "Baird Eagan",
+      "portrayedBy": "Unknown",
+      "occupation": "Eagan Family",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 25,
+      "name": "Gerhardt Eagan",
+      "alsoKnownAs": "Gerhardt Eagan",
+      "portrayedBy": "Unknown",
+      "occupation": "Eagan Family",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 26,
+      "name": "Helena Eagan",
+      "alsoKnownAs": "Helena Eagan",
+      "portrayedBy": "Britt Lower",
+      "occupation": "Eagan Family",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 27,
+      "name": "Imogene Eagan",
+      "alsoKnownAs": "Imogene Eagan",
+      "portrayedBy": "Unknown",
+      "occupation": "Eagan Family",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 28,
+      "name": "Jame Eagan",
+      "alsoKnownAs": "Jame Eagan",
+      "portrayedBy": "Unknown",
+      "occupation": "Eagan Family",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 29,
+      "name": "Kier Eagan",
+      "alsoKnownAs": "Kier Eagan",
+      "portrayedBy": "Marc Geller",
+      "occupation": "Eagan Family",
+      "status": "Unknown",
+      "firstAppearance": "Good News About Hell",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 30,
+      "name": "Leonora Eagan",
+      "alsoKnownAs": "Leonora Eagan",
+      "portrayedBy": "Unknown",
+      "occupation": "Eagan Family",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 31,
+      "name": "Myrtle Eagan",
+      "alsoKnownAs": "Myrtle Eagan",
+      "portrayedBy": "Unknown",
+      "occupation": "Eagan Family",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 32,
+      "name": "Phillip “Pip” Eagan",
+      "alsoKnownAs": "Pip Eagan",
+      "portrayedBy": "Unknown",
+      "occupation": "Eagan Family",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 33,
+      "name": "Animated Lumon Administrative Building",
+      "alsoKnownAs": "Animated Lumon Administrative Building",
+      "portrayedBy": "N/A",
+      "occupation": "Lumon Infrastructure",
+      "status": "Operational",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 34,
+      "name": "Animated Water Tower",
+      "alsoKnownAs": "Animated Water Tower",
+      "portrayedBy": "N/A",
+      "occupation": "Lumon Infrastructure",
+      "status": "Operational",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 35,
+      "name": "Event Coordinator",
+      "alsoKnownAs": "Event Coordinator",
+      "portrayedBy": "Unknown",
+      "occupation": "Lumon Employee",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 36,
+      "name": "Florence",
+      "alsoKnownAs": "Florence",
+      "portrayedBy": "Unknown",
+      "occupation": "Lumon Employee",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 37,
+      "name": "Goat Man",
+      "alsoKnownAs": "Goat Man",
+      "portrayedBy": "Jared Johnston",
+      "occupation": "Mammalians Nurturable at Lumon Industries",
+      "status": "Severed, Alive",
+      "firstAppearance": "Who Is Alive?",
+      "photo": "https://i.imgur.com/LJYcNjO.png",
+      "category": "Mammalians Nurturable"
+    },
+    {
+      "id": 38,
+      "name": "Gretchen George",
+      "alsoKnownAs": "Gretchen George",
+      "portrayedBy": "Unknown",
+      "occupation": "Lumon Employee",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 39,
+      "name": "Judd",
+      "alsoKnownAs": "Judd",
+      "portrayedBy": "Unknown",
+      "occupation": "Lumon Employee",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 40,
+      "name": "Lawrence",
+      "alsoKnownAs": "Lawrence",
+      "portrayedBy": "Unknown",
+      "occupation": "Lumon Employee",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 41,
+      "name": "Lorne",
+      "alsoKnownAs": "Lorne",
+      "portrayedBy": "Gwendoline Christie",
+      "occupation": "Mammalians Nurturable Flock Queen at Lumon Industries",
+      "status": "Severed, Alive",
+      "firstAppearance": "Who Is Alive?",
+      "photo": "https://i.imgur.com/9gp0dDQ.jpeg",
+      "category": "Mammalians Nurturable"
+    },
+    {
+      "id": 42,
+      "name": "Lumon Security Guard #1",
+      "alsoKnownAs": "Lumon Security Guard #1",
+      "portrayedBy": "Unknown",
+      "occupation": "Security",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 43,
+      "name": "Lumon Security Guard #2",
+      "alsoKnownAs": "Lumon Security Guard #2",
+      "portrayedBy": "Unknown",
+      "occupation": "Security",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 44,
+      "name": "Man in Hallway",
+      "alsoKnownAs": "Man in Hallway",
+      "portrayedBy": "Unknown",
+      "occupation": "Lumon Employee",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 45,
+      "name": "Ms. Casey",
+      "alsoKnownAs": "Gemma, Nan",
+      "portrayedBy": "Dichen Lachman",
+      "occupation": "Wellness Director at Lumon Industries",
+      "status": "Severed, “She’s alive!”",
+      "firstAppearance": "Half Loop",
+      "photo": "https://i.imgur.com/a3iRDpL.png",
+      "category": "Wellness"
+    },
+    {
+      "id": 46,
+      "name": "Sevy",
+      "alsoKnownAs": "Sevy",
+      "portrayedBy": "Unknown",
+      "occupation": "Lumon Employee",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 47,
+      "name": "The Four Tempers (dancers)",
+      "alsoKnownAs": "The Four Tempers",
+      "portrayedBy": "Unknown",
+      "occupation": "Lumon Employee",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 48,
+      "name": "Wyatt",
+      "alsoKnownAs": "Goat Wrangler",
+      "portrayedBy": "Brian Rock",
+      "occupation": "Mammalians Nurturable Goat Wrangler at Lumon Industries",
+      "status": "Severed, Alive",
+      "firstAppearance": "The Grim Barbarity of Optics and Design",
+      "photo": "https://i.imgur.com/SItoDBl.png",
+      "category": "Mammalians Nurturable"
+    },
+    {
+      "id": 49,
+      "name": "Cornell Scout",
+      "alsoKnownAs": "Cornell Scout",
+      "portrayedBy": "Unknown",
+      "occupation": "Family Member",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 50,
+      "name": "Devon Scout-Hale",
+      "alsoKnownAs": "Devon Scout-Hale",
+      "portrayedBy": "Jen Tullock",
+      "occupation": "Family Member",
+      "status": "Alive",
+      "firstAppearance": "Good News About Hell",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 51,
+      "name": "Eleanor Scout-Hale",
+      "alsoKnownAs": "Eleanor Scout-Hale",
+      "portrayedBy": "Unknown",
+      "occupation": "Family Member",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 52,
+      "name": "Fern Scout",
+      "alsoKnownAs": "Fern Scout",
+      "portrayedBy": "Unknown",
+      "occupation": "Family Member",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 53,
+      "name": "Gemma",
+      "alsoKnownAs": "Gemma",
+      "portrayedBy": "Unknown",
+      "occupation": "Family Member",
+      "status": "Alive",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 54,
+      "name": "Balf",
+      "alsoKnownAs": "Balf",
+      "portrayedBy": "Unknown",
+      "occupation": "Friend",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 55,
+      "name": "Danise",
+      "alsoKnownAs": "Danise",
+      "portrayedBy": "Unknown",
+      "occupation": "Friend",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 56,
+      "name": "Patton Thune",
+      "alsoKnownAs": "Patton Thune",
+      "portrayedBy": "Unknown",
+      "occupation": "Friend",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 57,
+      "name": "Rebeck Gulk",
+      "alsoKnownAs": "Rebeck Gulk",
+      "portrayedBy": "Unknown",
+      "occupation": "Friend",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 58,
+      "name": "Alan Miller",
+      "alsoKnownAs": "Alan Miller",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 59,
+      "name": "Alexa",
+      "alsoKnownAs": "Alexa",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 60,
+      "name": "Angelo Arteta",
+      "alsoKnownAs": "Angelo Arteta",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 61,
+      "name": "Asal Reghabi",
+      "alsoKnownAs": "Asal Reghabi",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 62,
+      "name": "Bartender",
+      "alsoKnownAs": "Bartender",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 63,
+      "name": "Book Reading Attendee",
+      "alsoKnownAs": "Book Reading Attendee",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 64,
+      "name": "Cecil Fields",
+      "alsoKnownAs": "Cecil Fields",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 65,
+      "name": "Charlotte Cobel",
+      "alsoKnownAs": "Charlotte Cobel",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 66,
+      "name": "Checkout Girl",
+      "alsoKnownAs": "Checkout Girl",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 67,
+      "name": "Cop",
+      "alsoKnownAs": "Cop",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 68,
+      "name": "Daria Thorne",
+      "alsoKnownAs": "Daria Thorne",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 69,
+      "name": "Dell Hatch",
+      "alsoKnownAs": "Dell Hatch",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 70,
+      "name": "Edgare Willit",
+      "alsoKnownAs": "Edgare Willit",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 71,
+      "name": "Fabie",
+      "alsoKnownAs": "Fabie",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 72,
+      "name": "Fissureman",
+      "alsoKnownAs": "Fissureman",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 73,
+      "name": "Gabby Arteta",
+      "alsoKnownAs": "Gabby Arteta",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 74,
+      "name": "Guy at Venue",
+      "alsoKnownAs": "Guy at Venue",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 75,
+      "name": "Jim George",
+      "alsoKnownAs": "Jim George",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 76,
+      "name": "Jim Milchick",
+      "alsoKnownAs": "Jim Milchick",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 77,
+      "name": "June Kilmer",
+      "alsoKnownAs": "June Kilmer",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 78,
+      "name": "Merrick George",
+      "alsoKnownAs": "Merrick George",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 79,
+      "name": "Mr. Saliba",
+      "alsoKnownAs": "Mr. Saliba",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 80,
+      "name": "Mrs. Lustgarten",
+      "alsoKnownAs": "Mrs. Lustgarten",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 81,
+      "name": "Nature Documentary Narrator",
+      "alsoKnownAs": "Nature Documentary Narrator",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 82,
+      "name": "Nina",
+      "alsoKnownAs": "Nina",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 83,
+      "name": "Ruth George",
+      "alsoKnownAs": "Ruth George",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 84,
+      "name": "Steven",
+      "alsoKnownAs": "Steven",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 85,
+      "name": "Waiter",
+      "alsoKnownAs": "Waiter",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 86,
+      "name": "Waitress",
+      "alsoKnownAs": "Waitress",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 87,
+      "name": "Weather Channel Announcer",
+      "alsoKnownAs": "Weather Channel Announcer",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 88,
+      "name": "WMC Activist 1",
+      "alsoKnownAs": "WMC Activist 1",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 89,
+      "name": "WMC Activist 2",
+      "alsoKnownAs": "WMC Activist 2",
+      "portrayedBy": "Unknown",
+      "occupation": "Other",
+      "status": "Unknown",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 90,
+      "name": "Goats",
+      "alsoKnownAs": "Goats",
+      "portrayedBy": "N/A",
+      "occupation": "Animal",
+      "status": "Alive",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 91,
+      "name": "Mark’s Fish",
+      "alsoKnownAs": "Mark’s Fish",
+      "portrayedBy": "N/A",
+      "occupation": "Animal",
+      "status": "Alive",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 92,
+      "name": "Radar",
+      "alsoKnownAs": "Radar",
+      "portrayedBy": "N/A",
+      "occupation": "Animal",
+      "status": "Alive",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    },
+    {
+      "id": 93,
+      "name": "Rebeck’s Bird",
+      "alsoKnownAs": "Rebeck’s Bird",
+      "portrayedBy": "N/A",
+      "occupation": "Animal",
+      "status": "Alive",
+      "firstAppearance": "Unknown",
+      "photo": "https://placehold.co/700x500/png"
+    }
+  ]
+}
